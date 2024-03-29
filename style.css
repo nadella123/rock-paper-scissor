@@ -1,0 +1,63 @@
+.one
+{
+    height:170px;
+    width:170px;
+    border:5px solid beige;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+}
+.container
+{
+    display: flex;
+    width: 1485px;
+    padding-top: 100px;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+h1{
+    padding-top: 80px;
+    color:beige;
+}
+#scissor
+{
+    transform: rotate(180deg);}
+    #t{
+        color: beige;
+        font-size: 50px;
+     display: flex;
+     justify-content: space-evenly;
+    }
+    button
+    {
+      color:white;
+       width:200px;
+       border:2px solid white;
+       height:40px;
+       border-radius:10px;
+    }
+    *
+    {
+        background-color: black;
+    }
+    .choices
+    {
+        display: flex;
+        justify-content: center;
+        gap: 60px;
+    }
+    #last
+    {
+        display: flex;
+        justify-content: center;
+    }
+    #love
+    {
+        color: aliceblue;
+        font-size: 40px;
+        display: flex;
+        justify-content: center;
+    }    
